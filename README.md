@@ -1,14 +1,14 @@
-## Installation
+## EGKATASTASI 
 
-➼ Firstly install maven [maven tutorial](https://mkyong.com/maven/how-to-install-maven-in-windows/) (if you are in windows).
+ARXIKA AN EISTE APO PERIVALLON WINDOWS PREPEI NA EGKATASTISETE THN MAVEN [maven tutorial](https://mkyong.com/maven/how-to-install-maven-in-windows/) 
 
-➼ Make sure you have MySQL installed.
+VEVEOTHITE OTI EXETE EGKATESTIMENH THN MySQL
 
-➼ Enter your database information on the application.properties file.
+EISAGETE TIS PLIROFORIES TIS VASIS DEDOMENON SAS STO ARXIO application.properties.
 
-➼ If you want to populate the tables theres an sql file under the resources folder, but fistly make sure you run the project so the tables get automatically created.
+EAN THELETE NA SIMPLIROSETE-TROPOPOIOISETE TOUS PINAKES.YPARXEI ENA ARXEIO SQL KATO APO TO SOURCES FILES.PROTA OMOS THA PREPEI NA EKTELESETE TO ERGO ETSI OSTE OI PINAKES NA DIMIOYRGOYNTE AFTOMATA
 
-Then type the following command to run the application on the root of your project
+GIA NA TREKSETE TON PARAKATO KODIKA THA PREPEI NA EISAGETE THN PARAKATO ENTOLI:
 
 ```bash
 mvn spring-boot:run
